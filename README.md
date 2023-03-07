@@ -7,7 +7,7 @@
 - 📫 How to reach me: 
     1) LinkedIn:https://www.linkedin.com/in/prateek-rajput-aa13436b/
     2) Twitter: in bio
-    3) Email: rajputprateekskoltech@gmail.com, prateek.rajput@skoltech.ru
+    3) Email: prateekrajputskoltech@gmail.com, prateek.rajput@skoltech.ru
         
 - ⚡ Achivements:  
     1) AIR 813 JEE Advanced
